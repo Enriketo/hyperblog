@@ -13,3 +13,5 @@ npm install --save @nestjs/swagger swagger-ui-express
 npm install --save @nestjs/swagger fastify-swagger
 npm install --save @nestjs/passport passport passport-local
 npm install --save-dev @types/passport-local
+
+cambios casi listo esta clase es buena 
