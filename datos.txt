@@ -1,0 +1,15 @@
+npm install -g npm
+npm install nodemon
+npm install -f polytool
+npm i -g @nestjs/cli
+npm install typeorm –save
+npm install class-validator –save
+npm install --save @nestjs/passport passport passport-local
+npm install --save-dev @types/passport-local
+npm install --save @nestjs/typeorm typeorm mysql
+npm install @nestjs/jwt passport-jwt
+npm install @types/passport-jwt --save-dev
+npm install --save @nestjs/swagger swagger-ui-express
+npm install --save @nestjs/swagger fastify-swagger
+npm install --save @nestjs/passport passport passport-local
+npm install --save-dev @types/passport-local
